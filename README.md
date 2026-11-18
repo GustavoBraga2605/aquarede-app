@@ -23,9 +23,8 @@
 
 | Nome completo | RM |
 |---|---|
-| _Nome 1_ | _RM000000_ |
-| _Nome 2_ | _RM000000_ |
-| _Nome 3_ | _RM000000_ |
+| _GUSTAVO CORDEIRO BRAGA_ | _RM562247_ |
+| _KAIO CORREA FERNANDES DA CONCEIÇÃO_ | _RM563443_ |
 
 ## 3. Demonstração visual
 
