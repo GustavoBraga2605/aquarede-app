@@ -30,11 +30,11 @@
 
 | | | |
 |---|---|---|
-| ![Consentimento](assets/screenshots/01_consentimento.png)<br>Consentimento explícito | ![Início](assets/screenshots/02_inicio.png)<br>Visão geral do território | ![Mananciais](assets/screenshots/03_mananciais.png)<br>Painel de mananciais |
-| ![Clima](assets/screenshots/04_clima.png)<br>Painel de clima (dados reais) | ![Ocorrências](assets/screenshots/05_ocorrencias.png)<br>Painel de ocorrências | ![Indicador](assets/screenshots/06_indicador.png)<br>Detalhe do indicador |
-| ![Alertas](assets/screenshots/07_alertas.png)<br>Lista de alertas | ![Alerta](assets/screenshots/08_alerta_detalhe.png)<br>Justificativa, confiança e limitações | ![Avaliação](assets/screenshots/09_avaliacao.png)<br>Decisão humana do gestor |
-| ![Registrar](assets/screenshots/10_registrar.png)<br>Formulário com validação | ![Mapa](assets/screenshots/11_mapa.png)<br>Mapa do território | ![Ajustes](assets/screenshots/12_ajustes.png)<br>Limiares, tema e privacidade |
-| ![Escuro](assets/screenshots/13_tema_escuro.png)<br>Tema escuro | ![Alto contraste](assets/screenshots/14_alto_contraste.png)<br>Alto contraste e fonte ampliada | ![Tablet](assets/screenshots/15_tablet.png)<br>Layout em tela maior |
+| ![Consentimento](assets/screenshots/01_consentimento.png)<br>Consentimento explícito | ![Início](assets/screenshots/Inicio.png)<br>Visão geral do território | ![Mananciais](assets/screenshots/Mananciais.png)<br>Painel de mananciais |
+| ![Clima](assets/screenshots/Clima.png)<br>Painel de clima (dados reais) | ![Ocorrências](assets/screenshots/Ocorrencias.png)<br>Painel de ocorrências | ![Indicador](assets/screenshots/Indicador.png)<br>Detalhe do indicador |
+| ![Alertas](assets/screenshots/Alertas.png)<br>Lista de alertas | ![Alerta](assets/screenshots/Alerta_detalhe.png)<br>Justificativa, confiança e limitações | ![Avaliação](assets/screenshots/Avaliacao.png)<br>Decisão humana do gestor |
+| ![Registrar](assets/screenshots/Registrar.png)<br>Formulário com validação | ![Mapa](assets/screenshots/Mapa.png)<br>Mapa do território | ![Ajustes](assets/screenshots/Ajustes.png)<br>Limiares, tema e privacidade |
+| ![Escuro](assets/screenshots/Escuro.png)<br>Tema escuro | ![Alto contraste](assets/screenshots/Alto_contraste.png)<br>Alto contraste e fonte ampliada |
 
 ## 4. Funcionalidades
 
