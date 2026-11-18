@@ -32,7 +32,7 @@
 |---|---|---|
 | ![Consentimento](assets/screenshots/Consentimento.png)<br>Consentimento explícito | ![Início](assets/screenshots/Início.png)<br>Visão geral do território | ![Mananciais](assets/screenshots/Mananciais.png)<br>Painel de mananciais |
 | ![Clima](assets/screenshots/Clima.png)<br>Painel de clima (dados reais) | ![Ocorrências](assets/screenshots/Ocorrências.png)<br>Painel de ocorrências | ![Indicador](assets/screenshots/Indicador.png)<br>Detalhe do indicador |
-| ![Alertas](assets/screenshots/Alertas.png)<br>Lista de alertas | ![Alerta](assets/screenshots/Alerta_detalhe.png)<br>Justificativa, confiança e limitações | ![Avaliação](assets/screenshots/Avaliação.png)<br>Decisão humana do gestor |
+| ![Alertas](assets/screenshots/Alertas.png)<br>Lista de alertas | ![Alerta](assets/screenshots/Alerta.png)<br>Justificativa, confiança e limitações | ![Avaliação](assets/screenshots/Avaliação.png)<br>Decisão humana do gestor |
 | ![Registrar](assets/screenshots/Registrar.png)<br>Formulário com validação | ![Mapa](assets/screenshots/Mapa.png)<br>Mapa do território | ![Ajustes](assets/screenshots/Ajustes.png)<br>Limiares, tema e privacidade |
 | ![Escuro](assets/screenshots/Escuro.png)<br>Tema escuro | ![Alto contraste](assets/screenshots/Alto_contraste.png)<br>Alto contraste e fonte ampliada |
 
