@@ -30,7 +30,7 @@
 
 | | | |
 |---|---|---|
-| ![Consentimento](assets/screenshots/01_consentimento.png)<br>Consentimento explícito | ![Início](assets/screenshots/Inicio.png)<br>Visão geral do território | ![Mananciais](assets/screenshots/Mananciais.png)<br>Painel de mananciais |
+| ![Consentimento](assets/screenshots/Consentimento.png)<br>Consentimento explícito | ![Início](assets/screenshots/Inicio.png)<br>Visão geral do território | ![Mananciais](assets/screenshots/Mananciais.png)<br>Painel de mananciais |
 | ![Clima](assets/screenshots/Clima.png)<br>Painel de clima (dados reais) | ![Ocorrências](assets/screenshots/Ocorrencias.png)<br>Painel de ocorrências | ![Indicador](assets/screenshots/Indicador.png)<br>Detalhe do indicador |
 | ![Alertas](assets/screenshots/Alertas.png)<br>Lista de alertas | ![Alerta](assets/screenshots/Alerta_detalhe.png)<br>Justificativa, confiança e limitações | ![Avaliação](assets/screenshots/Avaliacao.png)<br>Decisão humana do gestor |
 | ![Registrar](assets/screenshots/Registrar.png)<br>Formulário com validação | ![Mapa](assets/screenshots/Mapa.png)<br>Mapa do território | ![Ajustes](assets/screenshots/Ajustes.png)<br>Limiares, tema e privacidade |
