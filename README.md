@@ -148,7 +148,7 @@ android:usesCleartextTraffic="true"
 
 ## 9. Vídeo
 
-[Assista à demonstração (até 3 minutos)](https://LINK-DO-VIDEO)
+[Assista à demonstração (até 3 minutos)]((https://youtube.com/shorts/xZ5qfb7eW2M?is=e_hyBsVW9rRjbBde))
 
 ## 10. Licença
 
